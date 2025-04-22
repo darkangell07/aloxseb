@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and some other nerdy stuff but i am a cool guy
 - 🌱 I’m currently learning many things hopefully i can finish it
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alanparackalsebastian@gmail.com
+- 📫 How to reach me darka9962@gmail.com
 - 😄 Pronouns: He/him
 - ⚡I am intresetd in making new friends just mail me we can extchange contact details
 
@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
   
-  ![@Alox #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Alox)
+  
